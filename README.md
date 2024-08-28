@@ -1,2 +1,2 @@
-# formacao-git1
+# formacao-git1 com typo corrigido
 
